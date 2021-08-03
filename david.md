@@ -6,7 +6,7 @@
 
 * *2019-06 Graduation*
 
-> 2019.06, I graduated from Chengdu University of Information Technology. At University, I majored in software engineering ,and peformed well in my courses like C,C#,ASP,SQLSERVER and network of computer.I also earned scholarship at that time . As well as ,I got a driving license and CET6 certificate during my spare time.
+> 2019.06, I graduated from Chengdu University of Information Technology. At University, I majored in software engineering ,and peformed well in my courses like C,C#,ASP .net,SQLSERVER and network of computer.I also earned scholarship at that time . As well as ,I got a driving license and CET6 certificate during my spare time.
 
 ---
 
@@ -18,4 +18,16 @@
 
 * *2019-10 - now C# Developer IN  ShenSec Company*
 
-> Maybe basecase of life, I had to convert myslef into another job,time went fast at start ,another year came soon, two of my colleague quit. And their work left to me. I was more busy at that time ,I joined in multi-project development and maintaince.Have you ever saw the sunrise after working all night?I have. But I'm lucky that I met two experienced developer.With your help, I made much progress at that year that no new colleague join us.
+> Maybe basecase of life, I had to convert myslef into another job,time went fast at start ,another year came soon, two of my colleague quit. And their work left to me. I was more busy at that time ,I joined in multi-project development and maintaince.Have you ever saw the sunrise after working all night?I have. But I'm lucky that I met two experienced developer.With your help, I made much progress at that year that no new colleague join us. And there are some skills I get:
+>
+> * Database Manage
+>
+> As I DB manager,I developed some ps scripts using sqlcmd to deploy data structure. As well as ,I have writen hundreds of T-sql scripts about procedure trigger etc. On the Other hand, the database of our customers broke some time, becase of some unexcepted situation like power failure some sql script error etc and I would repair there.
+>
+> * Data Handle
+>
+> As I data handler,I developed some application to filter data ,access data from other company.And  I handled many types of data like doc,pacap,excel,json,xml,etc.
+>
+> * Spider
+>
+> As I data Spider,I draged many useful data from Web with python or C#.And  I have draged many website like facebook outlook 168 etc...
