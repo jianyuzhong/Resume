@@ -6,19 +6,19 @@
 
 * *2019-06 Graduation*
 
-> 2019.06, I graduated from Chengdu University of Information Technology. At University, I majored in software engineering ,and peformed well in my courses like C,C#,ASP .net,SQLSERVER and network of computer.I also earned scholarship at that time . As well as ,I got a driving license and CET6 certificate during my spare time.
+> 2019.06, I graduated from Chengdu University of Information Technology. My major was  software engineering. And I did well in courses like C,C#,ASP .net,SQLSERVER and network of computer, which enabled me to get a scholarship. Not only that, I was also good at making schedule properly, thus I got a driving license and CET6 certificate during my spare time.
 
 ---
 
 * *2019-04 - 2019 -10 C# Web Developer IN  REN WO Xing Company*
 
-> This is the first job when I graduated from shcool.And as a new birds, my work was difficult for me.The work in company was totally different from homework in school. I worked hard and payed much effort on my work.And I passed three-month internship finally. Howerver ,I was not very glod of this .I was tired of demand like sea water from customers.Maybe,I was not ready to be a good coder at that time. I chose another ...
+> This is the beginning of my career. And as a green bird, the project was difficult for me. The work in company was totally different from homework in school. Therefore, I worked hard and made a lot efforts. Finally, I passed three-month internship and got a job. However, it was not suitable for me. Because I was tired of demands like sea water from customers. Or maybe I wasn't ready to be a good coder at that time, so that I chose to leave.
 
 ---
 
 * *2019-10 - now C# Developer IN  ShenSec Company*
 
-> Maybe basecase of life, I had to convert myslef into another job,time went fast at start ,another year came soon, two of my colleague quit. And their work left to me. I was more busy at that time ,I joined in multi-project development and maintaince.Have you ever saw the sunrise after working all night?I have. But I'm lucky that I met two experienced developer.With your help, I made much progress at that year that no new colleague join us. And there are some skills I get:
+> As an adult, I had to find a new job to make a living, so I came to present company. A year passed quickly, during which two of my colleagues left one after another. The leaders arranged me to take over their work. Meanwhile, I also participated in the development and maintain of a multi-project, which made me very busy. Have you ever seen the sunrise after working all night? I was very impressed with it. But every coin has two sides, my ability has also improved very quickly with a year of intense work. This was inseparable from the help of others, and I am very grateful to the two experienced coders, who are both my superiors and my teachers. And followings are some skills I obtain:
 >
 > * Database Manage
 >
@@ -30,4 +30,4 @@
 >
 > * Spider
 >
-> As I data Spider,I draged many useful data from Web with python or C#.And  I have draged many website like facebook outlook 168 etc...
+> As I data Spider,I draged many useful data from Web with python or C#.And  I have draged many website like facebook, outlook ,168 etc...
