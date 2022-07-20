@@ -16,7 +16,7 @@
 
 ---
 
-* *2019-10 - now C# Developer IN  ShenSec Company*
+* *2019-10 - now Developer IN  ShenSec Company(C#&python)*
 
 > As an adult, I had to find a new job to make a living, so I came to present company. A year passed quickly, during which two of my colleagues left one after another. The leaders arranged me to take over their work. Meanwhile, I also participated in the development and maintain of a multi-project, which made me very busy. Have you ever seen the sunrise after working all night? I was very impressed with it. But every coin has two sides, my ability has also improved very quickly with a year of intense work. This was inseparable from the help of others, and I am very grateful to the two experienced coders, who are both my superiors and my teachers. And followings are some skills I obtain:
 >
