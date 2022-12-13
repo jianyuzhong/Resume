@@ -24,7 +24,7 @@
 >
 > As I DB manager,I developed some ps scripts using sqlcmd to deploy data structure. As well as ,I have writen hundreds of T-sql scripts about procedure trigger etc. On the Other hand, the database of our customers broke some time, becase of some unexcepted situation like power failure some sql script error etc and I would repair there.
 >
-> * Data Handle
+> * Data Processing
 >
 > As I data handler,I developed some application to filter data ,access data from other company.And  I handled many types of data like doc,pacap,excel,json,xml,etc.
 >
