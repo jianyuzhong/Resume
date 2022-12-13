@@ -18,15 +18,15 @@
 
 * *2019-10 - now Developer IN  ShenSec Company(C#&python)*
 
-> As an adult, I had to find a new job to make a living, so I came to present company. A year passed quickly, during which two of my colleagues left one after another. The leaders arranged me to take over their work. Meanwhile, I also participated in the development and maintain of a multi-project, which made me very busy. Have you ever seen the sunrise after working all night? I was very impressed with it. But every coin has two sides, my ability has also improved very quickly with a year of intense work. This was inseparable from the help of others, and I am very grateful to the two experienced coders, who are both my superiors and my teachers. And followings are some skills I obtain:
+>  I had to find a new job to make a living, so I came to present company. A year passed quickly, during which two of my colleagues left one after another. The leaders arranged me to take over their work. Meanwhile, I also participated in the development and maintain of a multi-project, which made me very busy. Have you ever seen the sunrise after working all night? I was very impressed with it. But every coin has two sides, my ability has also improved very quickly with a year of intense work. This was inseparable from the help of others, and I am very grateful to the two experienced coders, who are both my superiors and my teachers. And followings are some skills I obtain:
 >
 > * Database Manage
 >
-> As I DB manager,I developed some ps scripts using sqlcmd to deploy data structure. As well as ,I have writen hundreds of T-sql scripts about procedure trigger etc. On the Other hand, the database of our customers broke some time, becase of some unexcepted situation like power failure some sql script error etc and I would repair there.
+> As a DB manager,I developed some ps scripts using sqlcmd to deploy data structure. As well as ,I have writen hundreds of T-sql scripts about procedure trigger etc. On the Other hand, the database of our customers broke some time, becase of some unexcepted situation like power failure some sql script error etc and I would repair there.
 >
 > * Data Processing
 >
-> As I data handler,I developed some application to filter data ,access data from other company.And  I handled many types of data like doc,pacap,excel,json,xml,etc.
+> As a data handler,I developed some application to filter data ,access data from other company.And  I handled many types of data like doc,pacap,excel,json,xml,etc.
 >
 > * Spider
 >
