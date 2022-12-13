@@ -6,7 +6,7 @@
 
 * *2019-06 Graduation*
 
-> 2019.06, I graduated from Chengdu University of Information Technology. My major was  software engineering. And I did well in courses like python,C,C++,C#,ASP .net,SQLSERVER and network of computer, which enabled me to get a scholarship. Not only that, I was also good at making schedule properly, thus I got a driving license and CET6 certificate during my spare time.
+> 2019.06, I graduated from Chengdu University of Information Technology. My major is  software engineering. And I did well in courses like python,C,C++,C#,ASP .net,SQLSERVER and network of computer, which enabled me to get a scholarship. Not only that, I was also good at making schedule properly, thus I got a driving license and CET6 certificate during my spare time.
 
 ---
 
